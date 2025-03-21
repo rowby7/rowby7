@@ -9,7 +9,7 @@ Computer Science B.S. at Lehman College 2025 | Skilled in Java, SQL, Swift, Kotl
 
 
 
-## When I am AFK you can find me: 
+## Where you can find me: 
 <a href = "https://www.linkedin.com/in/rowby-villanueva/" /> <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" height = "45" /> 
 
 
