@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello there!
+<img src = "https://th.bing.com/th/id/R.52570018cb86377d52a84a54d43f9848?rik=BSrYiEXhzFKpYA&pid=ImgRaw&r=0"  height = "100"/>
 
-<!--
-**rowby7/rowby7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me:
+Computer Science B.S. at Lehman College 2025 | Skilled in Java, SQL, Swift, Kotlin | Computer Technology A.S. at LaGuardia Community College |
 
-Here are some ideas to get you started:
+## My Coding Skills:
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,swift,mysql,androidstudio,apple,eclipse,anaconda)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## When I am AFK you can find me: 
+<a href = "https://www.linkedin.com/in/rowby-villanueva/" /> <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" height = "45" /> 
+
+
