@@ -1,8 +1,20 @@
 ## Hello there!
-<img src = "https://th.bing.com/th/id/R.52570018cb86377d52a84a54d43f9848?rik=BSrYiEXhzFKpYA&pid=ImgRaw&r=0"  height = "100"/>
+<img src = "https://th.bing.com/th/id/R.52570018cb86377d52a84a54d43f9848?rik=BSrYiEXhzFKpYA&pid=ImgRaw&r=0"  height = "50"/>
 
 ## About me:
-Computer Science B.S. at Lehman College 2025 | Skilled in Java, SQL, Swift, Kotlin | Computer Technology A.S. at LaGuardia Community College |
+When I'm not coding I'm probably gaming and ranking down in any competitive game <img src = "https://media.tenor.com/QAIGME2QHqkAAAAj/capoo-gaming.gif" height = "50"/>
+
+B.S in Computer Science in Lehman College 2025
+
+Looking to be a software engineer building native apps for iOS and Android using Swift and Kotlin
+
+## Currently Working on:
+2D retro video game on eclipse using java applet
+
+iOS applications 
+
+Android applications
+
 
 ## My Coding Skills:
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,swift,mysql,androidstudio,apple,eclipse,anaconda)](https://skillicons.dev)
