@@ -13,7 +13,7 @@ Hello there! I'm Rowby, a Computer Science student at Lehman College, passionate
 
 
 ## My Coding Skills:
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,swift,mysql,androidstudio,apple,eclipse,anaconda)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,swift,kotlin,mysql,androidstudio,apple,py,js,react,css,html,eclipse,anaconda)](https://skillicons.dev)
 
 
 
