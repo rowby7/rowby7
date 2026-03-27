@@ -7,7 +7,6 @@ Hello there! I'm Rowby, a Computer Science student at Lehman College, passionate
 
 ## Current Projects 🚀:
 
-- 2D retro video game on eclipse using java applet
 - iOS applications 
 - Android applications
 
