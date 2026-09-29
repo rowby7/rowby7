@@ -1,14 +1,12 @@
-<img src = "https://th.bing.com/th/id/R.52570018cb86377d52a84a54d43f9848?rik=BSrYiEXhzFKpYA&pid=ImgRaw&r=0"  height = "70"/>
+About Me
+I’m Rowby, an iOS engineer focused on building fast, reliable, and user‑centered applications. I enjoy working across Swift, SwiftUI, UIKit, and modern architectural patterns. When I’m not coding, I’m usually gaming and losing MMR at an alarming rate.
 
-## About me:
-When I'm not coding I'm probably gaming and ranking down in any competitive game <img src = "https://media.tenor.com/QAIGME2QHqkAAAAj/capoo-gaming.gif" height = "50"/>
+Current Work
+Native iOS applications
 
-Hello there! I'm Rowby, a Computer Science student at Lehman College, passionate about creating innovative and user-friendly applications. I'm currently pursuing my Bachelor's degree, and my goal is to become a software engineer, specializing in building native iOS and Android apps using Swift and Kotlin.
+Camera‑driven features and custom UI components
 
-## Current Projects 🚀:
-
-- iOS applications 
-- Android applications
+A run‑tracking app with GPS route mapping and performance metrics
 
 
 ## My Coding Skills:
